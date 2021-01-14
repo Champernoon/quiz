@@ -23,6 +23,11 @@ img {
   border-radius: 50%;
 }
 
+.vrai:active {content: url("images/thumbuppress.png")}
+
+.faux:active {content: url("images/thumbdownpress.png")}
+
+
 .reponse { width: 300px;
 height: 200px;
 margin-bottom: 20px;
