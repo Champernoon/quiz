@@ -1,3 +1,7 @@
+$('.carousel').carousel({
+     touch: false
+});
+
 document.querySelector("#samba").innerHTML = '<i style="color:blue;" class="fas fa-arrow-circle-right"></i>'
 
 $(".rate").on("click", function() {
