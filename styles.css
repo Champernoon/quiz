@@ -1,4 +1,24 @@
 
+@media (max-width: 882px) {
+.vraifo {
+display: none;
+}
+}
+
+@media (max-width: 882px) {
+.proposition {
+margin: 0 !important;
+}
+}
+
+@media (max-width: 882px) {
+.title {
+font-size: 3rem;
+text-shadow: 1px 0 #232931;
+}
+}
+
+
 body {font-family: 'Ubuntu', sans-serif;
 font-size: 1.7rem;
 background-color: #adeecf;
@@ -27,6 +47,23 @@ img {
 
 .faux:active {content: url("images/thumbdownpress.png")}
 
+.rond {
+margin: auto;
+width: 48px;
+height: 48px;
+border-radius: 50%;}
+
+.rondlivre {
+margin: auto;
+width: 30px;
+height: 30px;
+border-radius: 50%;
+}
+.fas {
+margin: auto;
+padding-left: 3px;}
+
+.btn {margin-bottom: 20px;}
 
 .reponse { width: 300px;
 height: 200px;
